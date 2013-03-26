@@ -16,3 +16,6 @@
 
 # Ignore all Emacs backups
 *~
+
+# Ignore mail configuration
+lib/mail_config.rb
