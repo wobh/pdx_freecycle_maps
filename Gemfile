@@ -24,3 +24,6 @@ gem 'sqlite3'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+# Use rails-backbone
+gem 'rails-backbone'
