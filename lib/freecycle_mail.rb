@@ -73,7 +73,7 @@ def search_for_location (subject)
 end
 
 
-# http://rubydoc.info/gems/mail/frames
+# http://rubydoc.info/gems/mail
 
 def make_email_data(email)
   data = {}
